@@ -1,2 +1,5 @@
 .ipynb*
 .virtual*
+.gitinore
+__MACOSX
+CODE_PYT*
