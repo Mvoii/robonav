@@ -134,7 +134,7 @@ def objective(params: np.ndarray, cam_param: int, n_cams: int, n_Qs: int, cam_id
     """the objective function for tehe bundle adjustment
 
     Args:
-        params (ndarray): _description_Camera parameters and 3D coordinates
+        params (ndarray): Camera parameters and 3D coordinates
         cam_param (int): camera parameters
         n_cams (int): number of cameras
         n_Qs (int): indices of cameras for image points
